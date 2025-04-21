@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yağmur Yavuz Özdemir"
-  avatar : "C:/Users/yagmu/Desktop/Foto/profil picture/KAK_6111.jpg"  # We'll upload this in a moment
+  avatar : "assets/images/KAK_6111.jpg"  # We'll upload this in a moment
   bio    : "PhD student in Mathematics & Statistics at Auburn University. I work with Dr. Roberto Molinari on model/feature selection and network analysis."
 
   links:
@@ -74,7 +74,7 @@ author:
       url: "https://scholar.google.com/your-scholar-link"
     - label: "CV"
       icon: "fas fa-file"
-      url: "C:/Users/yagmu/Box/Yagmur documents/yyo_cv"
+      url: "assets/file/yyo_cv.pdf"
 
 footer:
   links:
