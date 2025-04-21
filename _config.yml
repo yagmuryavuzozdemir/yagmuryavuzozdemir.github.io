@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Yagmur Yavuz Ozdemir
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+url: "https://yagmuryavuzozdemir.github.io"
+github_username: yagmuryavuzozdemir
+#minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -58,22 +58,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Yağmur Yavuz Özdemir"
+  avatar : "/assets/images/yagmur.jpg"  # We'll upload this in a moment
+  bio    : "PhD student in Mathematics & Statistics at Auburn University. I work with Dr. Roberto Molinari on model/feature selection and network analysis."
+
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:yzy0096@auburn.edu"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/yagmuryavuzozdemir"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/your-scholar-link"
+    - label: "CV"
+      icon: "fas fa-file"
+      url: "C:/Users/yagmu/Box/Yagmur documents/yyo_cv"
 
 footer:
   links:
