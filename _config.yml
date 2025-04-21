@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yağmur Yavuz Özdemir"
-  avatar : "/assets/images/yagmur.jpg"  # We'll upload this in a moment
+  avatar : "C:/Users/yagmu/Desktop/Foto/profil picture/KAK_6111.jpg"  # We'll upload this in a moment
   bio    : "PhD student in Mathematics & Statistics at Auburn University. I work with Dr. Roberto Molinari on model/feature selection and network analysis."
 
   links:
